@@ -1,7 +1,7 @@
 # PythonCage
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/Version-1.0.0-green.svg)](https://github.com/yourusername/PythonCage/releases/tag/v1.0.0)
+[![Version](https://img.shields.io/badge/Version-1.0.0-green.svg)](https://github.com/idhanush/PythonCage/releases/tag/v1.0.0)
 
 PythonCage is a powerful Python library designed to execute Python code within predefined restrictions and limits. It provides a secure and controlled environment for running potentially untrusted code, ensuring that it operates within specified resource boundaries. If these boundaries are exceeded, PythonCage automatically restarts the Python program, preventing any potential harm.
 
