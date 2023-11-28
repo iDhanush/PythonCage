@@ -37,3 +37,13 @@ print("Hello, PythonCage!")
 
 cage.execute(code)
 ```
+For more examples and detailed documentation, please refer to the [Wiki](https://wikipeida.org).
+
+Contributing
+Contributions are welcome! Please read our Contribution Guidelines before submitting issues or pull requests.
+
+License
+PythonCage is licensed under the MIT License. Feel free to use, modify, and distribute it for both commercial and non-commercial projects.
+
+Acknowledgments
+Special thanks to OtherLibrary for inspiration and code snippets.
