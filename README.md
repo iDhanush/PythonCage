@@ -21,3 +21,19 @@ You can install PythonCage using `pip`:
 
 ```bash
 pip install PythonCage
+```
+Usage
+
+```bash
+from PythonCage import PythonCage
+
+# Create a PythonCage instance with specified limits
+cage = PythonCage(cpu_limit=1, memory_limit=512)  # 1 second CPU limit, 512 MB memory limit
+
+# Execute Python code within the cage
+code = """
+print("Hello, PythonCage!")
+"""
+
+cage.execute(code)
+```
